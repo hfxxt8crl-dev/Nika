@@ -5,8 +5,8 @@
       "fileName": "libNIKA.so",
       "fileType": "so",
       "downloadUrl": "https://raw.githubusercontent.com/hfxxt8crl-dev/Nika/main/libnika.so",
-      "sha256": "0960cedff59b626196ca0f29bfe4a8238c785252ac62707e766a9e809420cd5",
-      "size": 886.34,
+      "sha256": "10960cedff59b626196ca0f29bfe4a8238c785252ac62707e766a9e809420cd5",
+      "size": 907,612,
       "releaseDate": "2026-09-12T18:30:00Z",
       "mandatory": true,
       "changelog": [
