@@ -3,7 +3,7 @@
   "fileName": "libNIKA.so",
   "fileType": "so",
   "downloadUrl": "https://raw.githubusercontent.com/hfxxt8crl-dev/Nika/main/libnika.so",
-  "sha256": "10960cedff59b626196ca0f29bfe4a8238c785252ac62707e766a9e809420cd5",
+  "sha256": "c9244e7360a684e043dd4f05a3ce4714fe0276a6d0548d3b152cfa230294c52e",
   "mandatory": true,
   "changelog": [
     "Added new update system",
